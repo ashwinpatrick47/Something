@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.Buff-Doge{
+    width: 50%;
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+
+#image{
+    width: 200px;
+    height: 200px;
+}
+
+.cheems{
+    margin-left: 900px;
+    position: relative;
+    bottom: 270px;
+    font-family: "Libre Baskerville";
+    text-transform: lowercase;
+
+}
+
